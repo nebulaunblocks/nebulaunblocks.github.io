@@ -3,3 +3,8 @@
 body {
   font-family: 'Quicksand', sans-serif;
 }
+
+hr {
+    height: 3px;
+    border: none;
+}
