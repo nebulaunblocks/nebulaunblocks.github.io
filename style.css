@@ -8,3 +8,7 @@ hr {
     height: 3px;
     border: none;
 }
+
+img {
+  border-radius: 50%;
+}
